@@ -17,7 +17,7 @@ Through reinforcement learning and an application of genetic algorithm, the orga
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![download](https://github.com/Manonmana/Evolving-Organisms-Using-Genetic-Algorithm/assets/79914856/47f8f8a6-ee7f-451d-af7b-2e84aafca115)
 
 
 ## 🛠 Skills
